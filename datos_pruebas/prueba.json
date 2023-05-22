@@ -1,0 +1,65 @@
+{
+    "_id": {
+      "$oid": "645410fa041a12b43b1e0647"
+    },
+    "name": "Jose",
+    "isla" : "id_isla",
+    "municipio" : "municipio",
+    "logo": "rutaLogo",
+    "luchadores": {
+        "luchador1" : "id_luchador",
+        "luchador2" : "id_luchador",
+        "luchador3" : "id_luchador"
+    },
+    "directivos": {
+        "directivo1" : "id_luchador",
+        "directivo2" : "id_luchador",
+        "directivos" : "id_luchador"
+    },
+    "email": "joseanp02@gmail.com"
+  }
+
+db.municipios.insertMany([
+    {
+      name: "Agüimes"
+    },
+    {
+      name: "Puerto del Rosario"
+    },
+    {
+      name: "Haria"
+    },
+    {
+      name: "San Bartolomé"
+    },
+    {
+      name: "Teguise"
+    },
+    {
+      name: "Tias"
+    }
+]);
+
+db.islas.insertMany([
+    {
+      name: "Tenerife"
+    },
+    {
+      name: "Gran Canaria"
+    },
+    {
+      name: "Lanzarote"
+    },
+    {
+      name: "El Hierro"
+    },
+    {
+      name: "La Gomera"
+    },
+    {
+      name: "La Palma"
+    },
+    {
+      name: "Fuerteventura"
+    }
+]);

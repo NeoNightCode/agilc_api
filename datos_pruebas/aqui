@@ -1,0 +1,2284 @@
+Restarted application in 1.579ms.
+[log] 🔥
+      --------------------------------
+      {
+        "url": "https://api.guanxemc.net/account?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJqb3NlYW5wMDJAZ21haWwuY29tIiwiZXhwIjoxNjg2OTQ1MDkyfQ.aWT6aTLDX3pYRop1lInKO6hO61XrgAFCgPUlsGD30pw&language=en",
+        "method": "get",
+        "body": {},
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "1B37-98BK-8L5J-H5A4-TK00-3V13"
+        },
+        "startTime": "2023-05-21 23:00:19.188786",
+        "statusCode": 200,
+        "responseBody": {
+          "id": "645410fa041a12b43b1e0647",
+          "name": "Jose",
+          "email": "joseanp02@gmail.com"
+        },
+        "endTime": "2023-05-21 23:00:19.194382"
+      }
+      --------------------------------
+      🔥
+[log] 🔥
+      --------------------------------
+      {
+        "url": "https://api.guanxemc.net/ultimos_enfrentamientos",
+        "method": "get",
+        "body": {},
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "1B37-98BK-8L5J-H5A4-TK00-3V13"
+        },
+        "startTime": "2023-05-21 23:00:19.640728",
+        "statusCode": 200,
+        "responseBody": [
+          {
+            "home_team": "C.L. Folch, Bru and Lluch",
+            "home_team_image": "https://placekitten.com/956/491",
+            "away_team": "C.L. Pina Ltd",
+            "away_team_image": "https://placekitten.com/588/454",
+            "results": {
+              "done": true,
+              "points_home_team": "3",
+              "points_away_team": "12"
+            },
+            "date": "2023-03-11 21:00:00"
+          },
+          {
+            "home_team": "C.L. Castilla-Viñas",
+            "home_team_image": "https://dummyimage.com/19x723",
+            "away_team": "C.L. Barón-Asensio",
+            "away_team_image": "https://placekitten.com/368/495",
+            "results": {
+              "done": true,
+              "points_home_team": "6",
+              "points_away_team": "12"
+            },
+            "date": "2023-03-10 21:00:00"
+          },
+          {
+            "home_team": "C.L. Pinto, Carpio and Terrón",
+            "home_team_image": "https://dummyimage.com/866x983",
+            "away_team": "C.L. Río, Castells and Peñas",
+            "away_team_image": "https://placekitten.com/520/264",
+            "results": {
+              "done": true,
+              "points_home_team": "12",
+              "points_away_team": "8"
+            },
+            "date": "2023-03-09 21:00:00"
+          },
+          {
+            "home_team": "C.L. Río, Castells and Peñas",
+            "home_team_image": "https://placekitten.com/520/264",
+            "away_team": "C.L. Castilla-Viñas",
+            "away_team_image": "https://dummyimage.com/19x723",
+            "results": {
+              "done": true,
+              "points_home_team": "3",
+              "points_away_team": "12"
+            },
+            "date": "2023-03-04 21:00:00"
+          },
+          {
+            "home_team": "C.L. Pina Ltd",
+            "home_team_image": "https://placekitten.com/588/454",
+            "away_team": "C.L. Folch, Bru and Lluch",
+            "away_team_image": "https://placekitten.com/956/491",
+            "results": {
+              "done": true,
+              "points_home_team": "12",
+              "points_away_team": "5"
+            },
+            "date": "2023-03-03 21:00:00"
+          },
+          {
+            "home_team": "C.L. Pinto, Carpio and Terrón",
+            "home_team_image": "https://dummyimage.com/866x983",
+            "away_team": "C.L. Barón-Asensio",
+            "away_team_image": "https://placekitten.com/368/495",
+            "results": {
+              "done": true,
+              "points_home_team": "11",
+              "points_away_team": "12"
+            },
+            "date": "2023-03-02 21:00:00"
+          },
+          {
+            "home_team": "C.L. Barón-Asensio",
+            "home_team_image": "https://placekitten.com/368/495",
+            "away_team": "C.L. Pina Ltd",
+            "away_team_image": "https://placekitten.com/588/454",
+            "results": {
+              "done": true,
+              "points_home_team": "12",
+              "points_away_team": "3"
+            },
+            "date": "2023-02-18 21:00:00"
+          },
+          {
+            "home_team": "C.L. Río, Castells and Peñas",
+            "home_team_image": "https://placekitten.com/520/264",
+            "away_team": "C.L. Pinto, Carpio and Terrón",
+            "away_team_image": "https://dummyimage.com/866x983",
+            "results": {
+              "done": true,
+              "points_home_team": "12",
+              "points_away_team": "1"
+            },
+            "date": "2023-02-17 21:00:00"
+          },
+          {
+            "home_team": "C.L. Folch, Bru and Lluch",
+            "home_team_image": "https://placekitten.com/956/491",
+            "away_team": "C.L. Castilla-Viñas",
+            "away_team_image": "https://dummyimage.com/19x723",
+            "results": {
+              "done": true,
+              "points_home_team": "11",
+              "points_away_team": "12"
+            },
+            "date": "2023-02-16 21:00:00"
+          },
+          {
+            "home_team": "C.L. Pina Ltd",
+            "home_team_image": "https://placekitten.com/588/454",
+            "away_team": "C.L. Pinto, Carpio and Terrón",
+            "away_team_image": "https://dummyimage.com/866x983",
+            "results": {
+              "done": true,
+              "points_home_team": "8",
+              "points_away_team": "12"
+            },
+            "date": "2023-02-11 21:00:00"
+          }
+        ],
+        "endTime": "2023-05-21 23:00:19.665340"
+      }
+      --------------------------------
+      🔥
+[log] 🔥
+      --------------------------------
+      {
+        "url": "https://api.guanxemc.net/competiciones/all",
+        "method": "get",
+        "body": {},
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "1B37-98BK-8L5J-H5A4-TK00-3V13"
+        },
+        "startTime": "2023-05-21 23:00:23.794195",
+        "statusCode": 200,
+        "responseBody": [
+          {
+            "_id": "646a7923e643ba518401e568",
+            "name": "Liga Cabildo de Lanzarote",
+            "edition": "XXXVIII",
+            "category": "Senior",
+            "classification": "2º Categoria",
+            "fixtures": [
+              {
+                "_id": "646a7923e643ba518401e555",
+                "name": "JO1",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2022-12-01 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2022-12-02 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "9"
+                      },
+                      "date": "2022-12-03 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e557",
+                "name": "JO2",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "3"
+                      },
+                      "date": "2022-12-15 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "2"
+                      },
+                      "date": "2022-12-16 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "12"
+                      },
+                      "date": "2022-12-17 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e559",
+                "name": "JO3",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "0",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-12 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "4",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-13 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "6",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-14 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e55b",
+                "name": "JO4",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "7",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-19 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-20 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-21 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e55d",
+                "name": "JO5",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "10",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-26 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-27 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "0",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-28 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e55f",
+                "name": "JO6",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-02 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "10",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-03 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "1"
+                      },
+                      "date": "2023-02-04 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e561",
+                "name": "JO7",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "3",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-09 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "2"
+                      },
+                      "date": "2023-02-10 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-11 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e563",
+                "name": "JO8",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "11",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-16 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "1"
+                      },
+                      "date": "2023-02-17 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "3"
+                      },
+                      "date": "2023-02-18 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e565",
+                "name": "JO9",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "11",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-02 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "5"
+                      },
+                      "date": "2023-03-03 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "3",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-04 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e567",
+                "name": "JO10",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "8"
+                      },
+                      "date": "2023-03-09 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "6",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-10 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "3",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-11 21:00:00"
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "exception": "type 'Null' is not a subtype of type 'List<dynamic>' in type cast",
+        "endTime": "2023-05-21 23:00:23.799295"
+      }
+      --------------------------------
+      🔥
+[log] #0      _$$_CompetitionFromJson
+#1      new _$_Competition.fromJson
+#2      _$CompetitionFromJson
+#3      new Competition.fromJson
+#4      CompetitionService.getCompetitions.<anonymous closure>.<anonymous closure>
+#5      MappedListIterable.elementAt (dart:_internal/iterable.dart:415:31)
+#6      ListIterator.moveNext (dart:_internal/iterable.dart:344:26)
+#7      new _GrowableList._ofEfficientLengthIterable (dart:core-patch/growable_array.dart:189:27)
+#8      new _GrowableList.of (dart:core-patch/growable_array.dart:150:28)
+#9      new List.of (dart:core-patch/array_patch.dart:47:28)
+#10     ListIterable.toList (dart:_internal/iterable.dart:214:7)
+#11     CompetitionService.getCompetitions.<anonymous closure>
+#12     Http.request
+        <asynchronous suspension>
+#13     CompetitionService.getCompetitions
+        <asynchronous suspension>
+#14     CompetitionController.loadCompetitions
+        <asynchronous suspension>
+#15     CompetitionController.init
+        <asynchronous suspension>
+
+[log] 🔥
+      --------------------------------
+      {
+        "url": "https://api.guanxemc.net/competiciones/all",
+        "method": "get",
+        "body": {},
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "1B37-98BK-8L5J-H5A4-TK00-3V13"
+        },
+        "startTime": "2023-05-21 23:01:02.940495",
+        "statusCode": 200,
+        "responseBody": [
+          {
+            "_id": "646a7923e643ba518401e568",
+            "name": "Liga Cabildo de Lanzarote",
+            "edition": "XXXVIII",
+            "category": "Senior",
+            "classification": "2º Categoria",
+            "teams": [
+              {
+                "_id": "646a7923e643ba518401e409",
+                "name": "Castilla-Viñas",
+                "island": "Lanzarote",
+                "fighters": [
+                  {
+                    "_id": "646a7923e643ba518401e3e6",
+                    "name": "Amor Solís Sans",
+                    "registration_number": "110484382",
+                    "category": "Senior",
+                    "classification": "Puntal A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 18
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3e7",
+                    "name": "Humberto Gallego Blanch",
+                    "registration_number": "761823461",
+                    "category": "Senior",
+                    "classification": "Puntal C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3e8",
+                    "name": "Luisa Peiró Jaume",
+                    "registration_number": "733225293",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 28
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3e9",
+                    "name": "Fernanda Cabezas Mena",
+                    "registration_number": "630474290",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 32
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3ea",
+                    "name": "Febe Bru Simó",
+                    "registration_number": "377032413",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 21
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3eb",
+                    "name": "Olivia Cervantes Heras",
+                    "registration_number": "151236495",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3ec",
+                    "name": "Liliana Vendrell Ferrándiz",
+                    "registration_number": "737344760",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 20
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3ed",
+                    "name": "Maxi Casares Pardo",
+                    "registration_number": "517206998",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 27
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3ee",
+                    "name": "Bernardo Garrido Segarra",
+                    "registration_number": "527515454",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 33
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3ef",
+                    "name": "Gregorio Lasa Cabo",
+                    "registration_number": "750490948",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3f0",
+                    "name": "Florinda Robledo Carbajo",
+                    "registration_number": "378405826",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 21
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3f1",
+                    "name": "Jonatan Pastor Torrecilla",
+                    "registration_number": "898343426",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 27
+                  }
+                ],
+                "personnel": [
+                  {
+                    "_id": "646a7923e643ba518401e3fd",
+                    "name": "José Mari Villena Frutos",
+                    "position": "Presidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 48
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3fe",
+                    "name": "Concepción Vall Bas",
+                    "position": "Vicepresidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 43
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e3ff",
+                    "name": "Pía Pomares Enríquez",
+                    "position": "Secretario",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 33
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e400",
+                    "name": "Brunilda Alonso Iñiguez",
+                    "position": "Tesorero",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 41
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e401",
+                    "name": "Aurelia Rovira Martin",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 29
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e402",
+                    "name": "Chus Roca Trujillo",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e403",
+                    "name": "Jimena Ribes Pozuelo",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 30
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e404",
+                    "name": "Elisabet Rocamora Castro",
+                    "position": "Coordinador Deportivo",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 26
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e405",
+                    "name": "Corona Portillo Marín",
+                    "position": "Entrenador",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e406",
+                    "name": "Baltasar Garcés Varela",
+                    "position": "Preparador Físico",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 55
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e407",
+                    "name": "Viviana Soriano Cánovas",
+                    "position": "Monitor de Base",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 36
+                  }
+                ],
+                "image": "https://dummyimage.com/19x723"
+              },
+              {
+                "_id": "646a7923e643ba518401e439",
+                "name": "Pinto, Carpio and Terrón",
+                "island": "Lanzarote",
+                "fighters": [
+                  {
+                    "_id": "646a7923e643ba518401e416",
+                    "name": "Gerónimo Iniesta Asensio",
+                    "registration_number": "267814979",
+                    "category": "Senior",
+                    "classification": "Puntal A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 33
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e417",
+                    "name": "Galo Ángel Colom",
+                    "registration_number": "220841143",
+                    "category": "Senior",
+                    "classification": "Puntal C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e418",
+                    "name": "Mamen Villar Torrijos",
+                    "registration_number": "742756187",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e419",
+                    "name": "Ignacio Bertrán Castellanos",
+                    "registration_number": "273654927",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 22
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e41a",
+                    "name": "Arsenio Garmendia Sancho",
+                    "registration_number": "616080071",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 20
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e41b",
+                    "name": "Guiomar Lamas Pérez",
+                    "registration_number": "173944505",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e41c",
+                    "name": "Berto Alvarez Amor",
+                    "registration_number": "130890776",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 27
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e41d",
+                    "name": "Felipe Portillo Ramón",
+                    "registration_number": "938462405",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 30
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e41e",
+                    "name": "Encarnita Estevez Albero",
+                    "registration_number": "519525431",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 22
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e41f",
+                    "name": "Noé Pinedo Rodrigo",
+                    "registration_number": "428286002",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 28
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e420",
+                    "name": "Fausto Lumbreras Aliaga",
+                    "registration_number": "134653178",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 30
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e421",
+                    "name": "Esmeralda Maldonado Pou",
+                    "registration_number": "459359805",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 31
+                  }
+                ],
+                "personnel": [
+                  {
+                    "_id": "646a7923e643ba518401e42d",
+                    "name": "Juliana Alcalá Gracia",
+                    "position": "Presidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 36
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e42e",
+                    "name": "Fabio Beltrán Antúnez",
+                    "position": "Vicepresidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 52
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e42f",
+                    "name": "Benita Portillo Rios",
+                    "position": "Secretario",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 53
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e430",
+                    "name": "Eladio Adadia Madrigal",
+                    "position": "Tesorero",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 36
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e431",
+                    "name": "Jorge Valbuena Nieto",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 26
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e432",
+                    "name": "Tania Rosado Blanes",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 32
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e433",
+                    "name": "Leocadio Arana Oliver",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 29
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e434",
+                    "name": "Griselda Colomer Domínguez",
+                    "position": "Coordinador Deportivo",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 35
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e435",
+                    "name": "Irma Pomares Carrillo",
+                    "position": "Entrenador",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 34
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e436",
+                    "name": "Amílcar Pou Rueda",
+                    "position": "Preparador Físico",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e437",
+                    "name": "Ángela Arcos Valera",
+                    "position": "Monitor de Base",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 51
+                  }
+                ],
+                "image": "https://dummyimage.com/866x983"
+              },
+              {
+                "_id": "646a7923e643ba518401e469",
+                "name": "Pina Ltd",
+                "island": "Lanzarote",
+                "fighters": [
+                  {
+                    "_id": "646a7923e643ba518401e446",
+                    "name": "Daniel Canet Codina",
+                    "registration_number": "925600194",
+                    "category": "Senior",
+                    "classification": "Puntal A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e447",
+                    "name": "Jeremías Figueras Trujillo",
+                    "registration_number": "590050108",
+                    "category": "Senior",
+                    "classification": "Puntal C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 22
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e448",
+                    "name": "Hugo Andreu Mosquera",
+                    "registration_number": "933650601",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 19
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e449",
+                    "name": "Carmen Barriga Samper",
+                    "registration_number": "297000305",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 24
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e44a",
+                    "name": "Aureliano Barberá Coello",
+                    "registration_number": "114343282",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 34
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e44b",
+                    "name": "Abel Trujillo Castañeda",
+                    "registration_number": "906437551",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 24
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e44c",
+                    "name": "Fernanda Mir Lillo",
+                    "registration_number": "792162431",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 35
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e44d",
+                    "name": "Rebeca Diéguez Alemany",
+                    "registration_number": "541170259",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 28
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e44e",
+                    "name": "Fito Galindo Ferrero",
+                    "registration_number": "278436278",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 24
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e44f",
+                    "name": "Bárbara Escudero Macías",
+                    "registration_number": "946453706",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 30
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e450",
+                    "name": "Mireia Diez Ochoa",
+                    "registration_number": "955986543",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 26
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e451",
+                    "name": "Rosa Exposito Gárate",
+                    "registration_number": "269149543",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 30
+                  }
+                ],
+                "personnel": [
+                  {
+                    "_id": "646a7923e643ba518401e45d",
+                    "name": "Bautista Egea Paniagua",
+                    "position": "Presidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e45e",
+                    "name": "Delfina Sarmiento Rodriguez",
+                    "position": "Vicepresidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 56
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e45f",
+                    "name": "Cristian Carpio Arévalo",
+                    "position": "Secretario",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 27
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e460",
+                    "name": "Toño Sotelo Checa",
+                    "position": "Tesorero",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 52
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e461",
+                    "name": "Mercedes Martorell Puerta",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 49
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e462",
+                    "name": "Isa Landa Torrens",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 52
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e463",
+                    "name": "Eli Escamilla Bayón",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 58
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e464",
+                    "name": "María Fernanda Solsona Noguera",
+                    "position": "Coordinador Deportivo",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 38
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e465",
+                    "name": "Gloria Ortiz Cabo",
+                    "position": "Entrenador",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e466",
+                    "name": "Rosalva Luque Agudo",
+                    "position": "Preparador Físico",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 34
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e467",
+                    "name": "Cayetana Gras Gordillo",
+                    "position": "Monitor de Base",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 32
+                  }
+                ],
+                "image": "https://placekitten.com/588/454"
+              },
+              {
+                "_id": "646a7923e643ba518401e499",
+                "name": "Río, Castells and Peñas",
+                "island": "Lanzarote",
+                "fighters": [
+                  {
+                    "_id": "646a7923e643ba518401e476",
+                    "name": "Nazario Solé Ochoa",
+                    "registration_number": "133487202",
+                    "category": "Senior",
+                    "classification": "Puntal B",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 19
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e477",
+                    "name": "Angelino Acuña Campos",
+                    "registration_number": "960228905",
+                    "category": "Senior",
+                    "classification": "Puntal C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 26
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e478",
+                    "name": "Morena Romeu Llorens",
+                    "registration_number": "922975493",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 19
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e479",
+                    "name": "Isabela Cruz Pereira",
+                    "registration_number": "428558303",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 24
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e47a",
+                    "name": "Danilo Yáñez Andres",
+                    "registration_number": "738081149",
+                    "category": "Senior",
+                    "classification": "Destacado B",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 35
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e47b",
+                    "name": "Mohamed Domingo Criado",
+                    "registration_number": "627060062",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 37
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e47c",
+                    "name": "Geraldo Macias Manzano",
+                    "registration_number": "558008520",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e47d",
+                    "name": "Tamara Ojeda Francisco",
+                    "registration_number": "353154618",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 20
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e47e",
+                    "name": "Celestina Cabanillas Ayuso",
+                    "registration_number": "296874582",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 19
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e47f",
+                    "name": "Abilio Alemán Galván",
+                    "registration_number": "271250887",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 37
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e480",
+                    "name": "Emigdio Bayona Revilla",
+                    "registration_number": "841715676",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 18
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e481",
+                    "name": "Nicanor Tudela Grau",
+                    "registration_number": "686470628",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  }
+                ],
+                "personnel": [
+                  {
+                    "_id": "646a7923e643ba518401e48d",
+                    "name": "Yésica Vara Múgica",
+                    "position": "Presidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e48e",
+                    "name": "Donato Montes Mas",
+                    "position": "Vicepresidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 58
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e48f",
+                    "name": "Jose Antonio Bravo Canet",
+                    "position": "Secretario",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 32
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e490",
+                    "name": "Ainara Sanmiguel Águila",
+                    "position": "Tesorero",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 50
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e491",
+                    "name": "Abigaíl Jover Corominas",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 30
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e492",
+                    "name": "Salomón Ribes Barreda",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e493",
+                    "name": "Gonzalo Estévez Farré",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e494",
+                    "name": "Norberto Aguilera Pinedo",
+                    "position": "Coordinador Deportivo",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 60
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e495",
+                    "name": "Urbano Sanz Borrell",
+                    "position": "Entrenador",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 50
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e496",
+                    "name": "Úrsula Izaguirre Pascual",
+                    "position": "Preparador Físico",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 51
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e497",
+                    "name": "Gertrudis Bas Landa",
+                    "position": "Monitor de Base",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 45
+                  }
+                ],
+                "image": "https://placekitten.com/520/264"
+              },
+              {
+                "_id": "646a7923e643ba518401e4c9",
+                "name": "Folch, Bru and Lluch",
+                "island": "Lanzarote",
+                "fighters": [
+                  {
+                    "_id": "646a7923e643ba518401e4a6",
+                    "name": "Luisa Manuel Estévez",
+                    "registration_number": "293487587",
+                    "category": "Senior",
+                    "classification": "Puntal C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 33
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4a7",
+                    "name": "Sabina Santana Piñeiro",
+                    "registration_number": "252334481",
+                    "category": "Senior",
+                    "classification": "Puntal C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 24
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4a8",
+                    "name": "Adelia Muñoz Quintana",
+                    "registration_number": "238155217",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4a9",
+                    "name": "Nicolás Ramón Cortes",
+                    "registration_number": "161350466",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 27
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4aa",
+                    "name": "María Jesús Somoza Franch",
+                    "registration_number": "942761916",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 29
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4ab",
+                    "name": "Baltasar Aramburu Girona",
+                    "registration_number": "630119582",
+                    "category": "Senior",
+                    "classification": "Destacado C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4ac",
+                    "name": "Íngrid Escrivá Múñiz",
+                    "registration_number": "990076108",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 26
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4ad",
+                    "name": "Celia Ariza Baena",
+                    "registration_number": "964970744",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 24
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4ae",
+                    "name": "Ruy Isern Conesa",
+                    "registration_number": "127471914",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 35
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4af",
+                    "name": "Seve Coello Cisneros",
+                    "registration_number": "246881053",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 19
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4b0",
+                    "name": "Wilfredo Gomila Montero",
+                    "registration_number": "428068620",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 33
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4b1",
+                    "name": "Leonel Puig Bru",
+                    "registration_number": "595016151",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  }
+                ],
+                "personnel": [
+                  {
+                    "_id": "646a7923e643ba518401e4bd",
+                    "name": "Zaira Alcántara Zaragoza",
+                    "position": "Presidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 57
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4be",
+                    "name": "Azahar Alcázar Galindo",
+                    "position": "Vicepresidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4bf",
+                    "name": "Loreto Peña Lastra",
+                    "position": "Secretario",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 45
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c0",
+                    "name": "Loreto Barceló Iborra",
+                    "position": "Tesorero",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c1",
+                    "name": "Casandra Guijarro Vázquez",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 46
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c2",
+                    "name": "Agapito Cabezas Bosch",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 31
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c3",
+                    "name": "Salud Benítez Boada",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c4",
+                    "name": "Teófilo Carreras Ureña",
+                    "position": "Coordinador Deportivo",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 27
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c5",
+                    "name": "María Jesús Blazquez Flores",
+                    "position": "Entrenador",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 28
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c6",
+                    "name": "Amalia Sandoval Villaverde",
+                    "position": "Preparador Físico",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 25
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4c7",
+                    "name": "Odalis Asenjo Jordán",
+                    "position": "Monitor de Base",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 50
+                  }
+                ],
+                "image": "https://placekitten.com/956/491"
+              },
+              {
+                "_id": "646a7923e643ba518401e4f9",
+                "name": "Barón-Asensio",
+                "island": "Lanzarote",
+                "fighters": [
+                  {
+                    "_id": "646a7923e643ba518401e4d6",
+                    "name": "Cayetano Navarro Vilanova",
+                    "registration_number": "460448302",
+                    "category": "Senior",
+                    "classification": "Puntal A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 18
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4d7",
+                    "name": "Bautista Calleja Bárcena",
+                    "registration_number": "241232162",
+                    "category": "Senior",
+                    "classification": "Puntal C",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 23
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4d8",
+                    "name": "Anacleto Murcia Morante",
+                    "registration_number": "632863556",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 34
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4d9",
+                    "name": "Bruno Taboada Velasco",
+                    "registration_number": "822080188",
+                    "category": "Senior",
+                    "classification": "Destacado A",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 39
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4da",
+                    "name": "Tiburcio Peinado Amigó",
+                    "registration_number": "961607363",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 34
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4db",
+                    "name": "Jovita Solsona Gascón",
+                    "registration_number": "936944799",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 34
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4dc",
+                    "name": "Ana Lloret Arnal",
+                    "registration_number": "625953231",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 35
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4dd",
+                    "name": "Seve Arana Solís",
+                    "registration_number": "770743929",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 35
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4de",
+                    "name": "Marina Arjona Mas",
+                    "registration_number": "596163892",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 24
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4df",
+                    "name": "Fanny Lluch Quintana",
+                    "registration_number": "636540762",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 36
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4e0",
+                    "name": "Perlita Amaya Talavera",
+                    "registration_number": "440008229",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 19
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4e1",
+                    "name": "Trinidad Palmer Diego",
+                    "registration_number": "789945125",
+                    "category": "Senior",
+                    "classification": "No Clasificado",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 29
+                  }
+                ],
+                "personnel": [
+                  {
+                    "_id": "646a7923e643ba518401e4ed",
+                    "name": "Baudelio Llorente Pizarro",
+                    "position": "Presidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 52
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4ee",
+                    "name": "Roldán Acero Ferrera",
+                    "position": "Vicepresidente",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 55
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4ef",
+                    "name": "Basilio Castañeda Carmona",
+                    "position": "Secretario",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 54
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f0",
+                    "name": "Pánfilo Escamilla Aller",
+                    "position": "Tesorero",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 52
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f1",
+                    "name": "Wilfredo Leal Quiroga",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 40
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f2",
+                    "name": "Dominga Fuentes Fábregas",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 27
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f3",
+                    "name": "Ramiro Mas Sotelo",
+                    "position": "Vocal",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 29
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f4",
+                    "name": "Morena Farré Cerezo",
+                    "position": "Coordinador Deportivo",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 36
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f5",
+                    "name": "Loida Tena Angulo",
+                    "position": "Entrenador",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 28
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f6",
+                    "name": "Simón Coloma Castilla",
+                    "position": "Preparador Físico",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 44
+                  },
+                  {
+                    "_id": "646a7923e643ba518401e4f7",
+                    "name": "Joaquina Marti Real",
+                    "position": "Monitor de Base",
+                    "image": "https://guanxemc.net/img/default.png",
+                    "age": 51
+                  }
+                ],
+                "image": "https://placekitten.com/368/495"
+              }
+            ],
+            "fixtures": [
+              {
+                "_id": "646a7923e643ba518401e555",
+                "name": "JO1",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2022-12-01 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2022-12-02 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "9"
+                      },
+                      "date": "2022-12-03 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e557",
+                "name": "JO2",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "3"
+                      },
+                      "date": "2022-12-15 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "2"
+                      },
+                      "date": "2022-12-16 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "12"
+                      },
+                      "date": "2022-12-17 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e559",
+                "name": "JO3",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "0",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-12 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "4",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-13 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "6",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-14 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e55b",
+                "name": "JO4",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "7",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-19 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-20 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-21 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e55d",
+                "name": "JO5",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "10",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-26 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-27 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "0",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-01-28 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e55f",
+                "name": "JO6",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-02 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "10",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-03 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "1"
+                      },
+                      "date": "2023-02-04 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e561",
+                "name": "JO7",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "3",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-09 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "2"
+                      },
+                      "date": "2023-02-10 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "8",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-11 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e563",
+                "name": "JO8",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "11",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-02-16 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Pinto, Carpio and Terrón",
+                      "away_team_image": "https://dummyimage.com/866x983",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "1"
+                      },
+                      "date": "2023-02-17 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Barón-Asensio",
+                      "home_team_image": "https://placekitten.com/368/495",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "3"
+                      },
+                      "date": "2023-02-18 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e565",
+                "name": "JO9",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "11",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-02 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Pina Ltd",
+                      "home_team_image": "https://placekitten.com/588/454",
+                      "away_team": "C.L. Folch, Bru and Lluch",
+                      "away_team_image": "https://placekitten.com/956/491",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "5"
+                      },
+                      "date": "2023-03-03 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Río, Castells and Peñas",
+                      "home_team_image": "https://placekitten.com/520/264",
+                      "away_team": "C.L. Castilla-Viñas",
+                      "away_team_image": "https://dummyimage.com/19x723",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "3",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-04 21:00:00"
+                    }
+                  ]
+                ]
+              },
+              {
+                "_id": "646a7923e643ba518401e567",
+                "name": "JO10",
+                "matchups": [
+                  [
+                    {
+                      "home_team": "C.L. Pinto, Carpio and Terrón",
+                      "home_team_image": "https://dummyimage.com/866x983",
+                      "away_team": "C.L. Río, Castells and Peñas",
+                      "away_team_image": "https://placekitten.com/520/264",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "12",
+                        "points_away_team": "8"
+                      },
+                      "date": "2023-03-09 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Castilla-Viñas",
+                      "home_team_image": "https://dummyimage.com/19x723",
+                      "away_team": "C.L. Barón-Asensio",
+                      "away_team_image": "https://placekitten.com/368/495",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "6",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-10 21:00:00"
+                    },
+                    {
+                      "home_team": "C.L. Folch, Bru and Lluch",
+                      "home_team_image": "https://placekitten.com/956/491",
+                      "away_team": "C.L. Pina Ltd",
+                      "away_team_image": "https://placekitten.com/588/454",
+                      "results": {
+                        "done": true,
+                        "points_home_team": "3",
+                        "points_away_team": "12"
+                      },
+                      "date": "2023-03-11 21:00:00"
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
